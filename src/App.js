@@ -1,11 +1,11 @@
-import './app.css'
+import ControlPanel from "./ControlPanel";
 
-import ControlPanel from './ControlPanel';
+import "./app.css";
 
 function App() {
   return (
     <>
-          <ControlPanel />
+      <ControlPanel />
     </>
   );
 }
